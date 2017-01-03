@@ -3,11 +3,11 @@
 
 ## How to use
 
-Download the example (or clone the repo)[https://github.com/zeit/next.js.git]:
+Download the example (or clone the repo):
 
 ```bash
-curl https://codeload.github.com/zeit/next.js/tar.gz/master | tar -xz --strip=2 next.js-master/examples/custom-server-express
-cd custom-server-express
+git clone https://github.com/sarukuku/next-custom-server-express.git
+cd next-custom-server-express
 ```
 
 Install it and run:
